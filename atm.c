@@ -91,7 +91,7 @@ void atm_interface() {
     init_atm(&atm);
 
     printf("Welcome to the ATM Simulator\n");
-    printf("Code created by SnSarvesh🔥\n");
+    printf("Code crafted by SnSarvesh🔥\n");
 
     char user_id[20];
     char pin[20];
